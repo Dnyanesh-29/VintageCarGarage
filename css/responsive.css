@@ -1,0 +1,45 @@
+@media only screen and (max-width: 900px){
+    .navbar{
+        display: none;
+    }
+    .open{
+        display: block;
+    }
+    .overlay2{
+        display: block;
+    }
+}
+
+
+
+@media only screen and (max-width: 400px){
+    .container2 img{
+        width: 300px
+    }
+    .overlay{
+        width: 300px;
+    }
+    .contact-us img{
+        width: 250px;
+    }
+    .fasion-photo{
+        background-attachment: scroll;
+    }
+    .box{
+        padding: 0px 0px;
+    }
+}
+
+@media only screen and (max-width: 540px){
+    .contact-form{
+        padding-right: 0px;
+        padding-top: 50px;
+    }
+}
+
+@media only screen and (max-width: 398px){
+        .address{
+            padding: 0px 0px;
+            line-height: 20px;
+              }
+    }
